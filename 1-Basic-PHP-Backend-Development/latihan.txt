@@ -1,0 +1,5 @@
+Buatlah suatu program sederhana dengan fitur CRUD menggunakan PHP dan MySQL
+
+Nama DB = Toko
+Nama Tabel= Stok Barang
+Kolom = id, nama_barang, qty, harga
